@@ -1,4 +1,4 @@
-# ET Masked
+# ![ET Masked](banner.png)
 
 ## About me
 
