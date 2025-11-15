@@ -8,3 +8,4 @@ All projects created in those streams are updated and uploaded to this account.
 ## Social
 
 - [Youtube](http://www.youtube.com/@ETMaskedOfficial)
+- [Itch](https://et-masked.itch.io/)
